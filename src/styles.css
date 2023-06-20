@@ -1,6 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     background-color: #0A0E21;
+    display:inline-block;
+    display: inline;
+    
+    
 }
 
 .titulo {
@@ -12,12 +16,15 @@ body{
 
 .row {
     margin-top: 20px;
+    
 }
 .btn-color{
     background-color: #ff3366;
     border-color: #ff3366;
     border-radius: 25px;
     width: 100%;
+    margin: 10px;
+    
 }
 .contenedor{
     display: flex;
@@ -25,5 +32,6 @@ body{
     align-items: center;
     flex-direction: column;
     height: 100%;
+    margin-top: 10px;
 
 }

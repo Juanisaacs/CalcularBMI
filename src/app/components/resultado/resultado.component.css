@@ -1,8 +1,11 @@
 .fondoItem{
     background-color: #FF111328;
+    display: inline-flexbox;
     height: 430px;
     border-radius: 20px;
     color: beige;
+    
+    
 }
 .resultado{
     color:#12BD45;
